@@ -1,5 +1,5 @@
 # Varaible scope is where a variable is visible and acessable 
-#   Scope resolution flows an order LEGB(Local, enclosed, global and built-in)
+#  Scope resolution flows an order LEGB(Local, enclosed, global and built-in)
 
 #Local scope 
 def firstname():
